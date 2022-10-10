@@ -1,0 +1,16 @@
+let name = "Rahul";
+let school = "Masai School";
+let grade = "A";
+let section = 23;
+let rollno = 277;
+let english = 20;
+let hindi = 30;
+let maths = 34;
+console.log("School = " + school);
+console.log("Name = " + name);
+console.log("Grade = " + grade);
+console.log("Section = " + section);
+console.log("Roll N0 = " + rollno);
+console.log("English = " + english);
+console.log("Hindi = " + hindi);
+console.log("Maths = " + maths);
